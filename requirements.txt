@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+joblib
+streamlit
+shap
+pypdf
+langchain
+langchain-community
+langchain-huggingface
+sentence-transformers
+faiss-cpu
